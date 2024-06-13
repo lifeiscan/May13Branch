@@ -111,7 +111,7 @@ public class AutomatedTest {
 		
 		WebElement Password=driver.findElement(By.id("pass"));
 		
-		Password.sendKeys("ugurugur_90");
+		Password.sendKeys("");
 		
 		Thread.sleep(1000);
 		
